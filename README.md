@@ -95,7 +95,7 @@ Digital FPV upgrade
 
 | Component | Specification | Quantity | Link |
 |-----------|--------------|----------|------|
-| Brushless Motor | 2200KV | 1 | Link |
+| Brushless Motor | 2200KV | 1 | https://robu.in/product/2212-920kv-brushless-motor-dji-red/ |
 | ESC | 30A | 1 | Link |
 | LiPo Battery | 11.1V 2200mAh 3S | 1 | Link |
 | Propeller | 10x4.5 | 1 | Link |
