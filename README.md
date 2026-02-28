@@ -96,10 +96,10 @@ Digital FPV upgrade
 | Component | Specification | Quantity | Link |
 |-----------|--------------|----------|------|
 | Brushless Motor | 2200KV | 1 | https://robu.in/product/2212-920kv-brushless-motor-dji-red/ |
-| ESC | 30A | 1 | Link |
-| LiPo Battery | 11.1V 2200mAh 3S | 1 | Link |
-| Propeller | 10x4.5 | 1 | Link |
-| FPV Camera | 600–700TVL | 1 | Link |
-| Video Transmitter | 5.8GHz | 1 | Link |
+| ESC | 40A | 1 | https://robu.in/product/40a-2-6s-esc-3-5mm-banana-connector/ |
+| LiPo Battery | 11.1V 2200mAh 3S | 1 | https://robu.in/product/orange-2200mah-3s-30c60c-lithium-polymer-battery-pack-lipo/ |
+| Propeller | 10x4.5 | 1 | https://robu.in/product/orange-hd-propellers-104510x4-5-abs-1cw1ccw-1pair-black/ |
+| FPV Camera | 600–700TVL | 1 | https://www.electropi.in/1-3-cmos-1500tvl-mini-fpv-camera-21mm-lens-pal-ntsc-with-osd |
+| Video Transmitter | 5.8GHz | 1 |  |
 | Phone Receiver | 5.8GHz UVC OTG | 1 | Link |
 | Action Camera | 4K 30fps | 1 | Link |
