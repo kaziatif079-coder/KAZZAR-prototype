@@ -69,7 +69,7 @@ Android OTG 5.8GHz Receiver
 
 4K Action Camera
 
-Technical Focus Areas
+Technical Focus Areas:
 
 Power-to-weight optimization
 
