@@ -100,6 +100,6 @@ Digital FPV upgrade
 | LiPo Battery | 11.1V 2200mAh 3S | 1 | https://robu.in/product/orange-2200mah-3s-30c60c-lithium-polymer-battery-pack-lipo/ |
 | Propeller | 10x4.5 | 1 | https://robu.in/product/orange-hd-propellers-104510x4-5-abs-1cw1ccw-1pair-black/ |
 | FPV Camera | 600–700TVL | 1 | https://www.electropi.in/1-3-cmos-1500tvl-mini-fpv-camera-21mm-lens-pal-ntsc-with-osd |
-| Video Transmitter | 5.8GHz | 1 |  |
-| Phone Receiver | 5.8GHz UVC OTG | 1 | Link |
-| Action Camera | 4K 30fps | 1 | Link |
+| Video Transmitter | 5.8GHz | 1 | https://www.electropi.in/ts835-fpv-58g-600mw-48ch-2-6s-wireless-av-transmitter |
+| Phone Receiver | 5.8GHz UVC OTG | 1 | https://www.electropi.in/58g-uvc-otg-android-av-phone-receiver |
+| Action Camera | 4K 30fps | 1 | https://www.amazon.in/gp/product/B0G1ZFP9KL/ref=ox_sc_act_title_1?smid=A2HRG2XMGIR8NW&psc=1 |
