@@ -105,3 +105,4 @@ Digital FPV upgrade
 | Video Transmitter | 5.8GHz | 1 | https://www.electropi.in/ts835-fpv-58g-600mw-48ch-2-6s-wireless-av-transmitter |
 | Phone Receiver | 5.8GHz UVC OTG | 1 | https://www.electropi.in/58g-uvc-otg-android-av-phone-receiver |
 | Action Camera | 4K 30fps | 1 | https://www.amazon.in/gp/product/B0G1ZFP9KL/ref=ox_sc_act_title_1?smid=A2HRG2XMGIR8NW&psc=1 |
+| Action Camera | 4K 30fps | 1 | https://www.amazon.in/gp/product/B0G1ZFP9KL/ref=ox_sc_act_title_1?smid=A2HRG2XMGIR8NW&psc=1 |
