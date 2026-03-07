@@ -95,6 +95,77 @@ Improved aerodynamic frame design
 
 Digital FPV upgrade
 
+The drone has three parts that make it work:
+
+Power System
+
+Flight Control System
+
+FPV Video Transmission System
+
+
+
+Power System
+The drone gets its power from a battery called a LiPo battery. This battery is 11.1 volts and 2200mAh.
+
+Power goes from the battery to the ESC, which's like a controller for the motors. Then the power goes from the ESC to the Brushless Motors. The ESC helps control how fast the motors go, which makes the drone move.
+
+We also use a regulator to make sure the FPV camera and video transmitter get the right amount of power.
+
+drone power system
+
+Flight Control System
+The flight controller is like the brain of the drone. It gets signals from the radio receiver, which talks to the CT6B transmitter that the pilot uses.
+
+The signals go from the transmitter to the receiver then to the flight controller then to the ESC and finally to the motors.
+
+The pilot can control the drone using the transmitter. The pilot can make the drone go up and down move forward and backward move left and right and even spin around.
+
+The flight controller is always calculating how fast each motor should go to keep the drone stable and flying smoothly.
+
+motor system
+
+The drone has motors that make it move.
+The drone has four Brushless Motors that are connected to propellers. When the motors spin the propellers push air down. Make the drone go up.
+
+If the motors spin faster the drone goes up. If they spin slower the drone goes down. If the front motors spin slower the drone moves forward. If the side motors change speed the drone. Turns.
+
+This makes the drone able to hover move around and stay stable in the air.
+
+The FPV Video System
+
+The drone also has a FPV system that lets the pilot see what the drone sees.
+
+The FPV camera takes video and sends it to the video transmitter, which broadcasts the signal.
+
+The signal goes to a receiver on the pilots phone and then the pilot can see the live video, on their phone.
+
+Additional Parts
+
+We use some parts to make sure the drone works safely and reliably.
+
+We use XT60 connectors to connect the battery to the drone.
+
+We use 3.5mm bullet connectors to connect the motors to the ESC.
+
+We use heat shrink tubes to keep the wires safe.
+
+We use zip ties to keep the cables organized.
+
+We use a balance charger to charge the LiPo battery safely.
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Component | Specification | Quantity | Link |
 |-----------|--------------|----------|------|
 | Brushless Motor | 2200KV | 4 | https://robu.in/product/2212-920kv-brushless-motor-dji-red/ |
