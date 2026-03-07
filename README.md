@@ -48,7 +48,7 @@ Camera → 5.8GHz Video Transmitter
 Transmitter → Mobile Receiver (via OTG)
 
 <p align="center">
-  <img src="flow chart.png" width="600">
+  <img src="wiring diagram (2).png" width="600">
 </p>
 
 Key Components
