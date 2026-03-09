@@ -18,7 +18,7 @@ The FPV system operates independently, transmitting live analog video from the o
 
 The action camera is used for high-resolution video recording, separate from the live FPV feed.
 
-Below is the full 3D render of the drone assembly:
+Below is the full 3D render of the drone assembly:(it is just for refrence!)
 <p align="center">
   <img src="Quadcopter Image.jpg" width="600">
 </p>
